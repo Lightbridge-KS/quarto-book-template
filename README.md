@@ -31,9 +31,9 @@ Python virtual environment within project is [recommended](https://rstudio.githu
 
 ## Continuous Deployment
 
-If you want to render and build site in the cloud.
+If you want to render and build site in the cloud using Github Actions.
 
--   Go to [Quarto github action](https://github.com/quarto-dev/quarto-actions/tree/main/examples)
+-   Go to [Quarto Github Actions](https://github.com/quarto-dev/quarto-actions/tree/main/examples)
 
 -   Choose workflow (`.yaml`) file you want, then copy the URL.
 
